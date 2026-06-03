@@ -21,3 +21,7 @@ Built a Microsoft Entra ID environment to simulate enterprise identity and acces
 -Access Control
 -RBAC
 -User Administration
+
+## Architecture Diagram
+![Microsoft 365 Security Lab]
+(m365-security-lab-diagram.png)
